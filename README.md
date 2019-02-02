@@ -1,4 +1,4 @@
-# Django Blog Sample
+# Django Progressive Web App
 
 This repository contains a simple web application built with the Django web framework.
 
